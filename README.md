@@ -4,6 +4,9 @@ A Flutter Web implmentation of [Frontend Mentor's](https://frontendmentor.io/) [
 
 [Twitter Follow](https://img.shields.io/twitter/follow/olu_tayormi?label=Follow&style=social)](https://twitter.com/olu_tayormi)
 
+## Demo
+[Demo Link](https://single_price_grid_component_flutter.codemagic.app/)
+
 ## 📸 Screenshots
 <div style="background-color:rgb(169,169,169); text-align:center">
 <img src="ss/single-price-grid-component.png" width="1200" style="border-radius: 15px">
